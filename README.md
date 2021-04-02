@@ -3,12 +3,12 @@
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/phenriqmelo/">
-      <img alt="Léo Gonzaga" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Pedro Melo" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeoGonzaga/acelerar-audio-wpp?color=FB250">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/blzpedro/change-volume-instagram?color=FB250">
 
   <a href="https://github.com/leoGonzaga/preguizap/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leoGonzaga/acelerar-audio-wpp?color=FB250">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/blzpedro/change-volume-instagram?color=FB250">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-FB250">
 
