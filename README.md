@@ -35,9 +35,9 @@ Faça download do zip ou clone o repositório.
 ```bash
 
 # Extraia a pasta
-# Abra o google chrome e digite chrome://extensions/
+# Abra o Coogle Chrome e digite chrome://extensions/
 # Ative o modo de desenvolvedor no lado superior direito
-# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no instagram
+# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no Instagram
 
 # Entre em um stories de vídeo.
 # No canto superior possui um slider de volume para controlar o volume dos stories.
