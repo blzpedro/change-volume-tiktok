@@ -7,9 +7,6 @@
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/blzpedro/change-volume-instagram?color=FB250">
 
-  <a href="https://github.com/leoGonzaga/preguizap/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/blzpedro/change-volume-instagram?color=FB250">
-  </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-FB250">
 
 </p>
