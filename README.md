@@ -67,7 +67,7 @@ Faça download do zip ou clone o repositório.
 	# Abra o Google Chrome e digite chrome://extensions/ na url
 	# Ative o modo de desenvolvedor no lado superior direito
 	# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no Instagram.
-       ```
+       
 
 - ## Opera GX:
      ```bash
@@ -75,7 +75,7 @@ Faça download do zip ou clone o repositório.
 	# Abra o Opera GX e aperte CTRL + SHIFT + E
 	# Ative o modo de desenvolvedor no lado superior direito
 	# Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no Instagram.
-      ``` 
+      
 
 ## Após a inclusão no seu browser:
 ```bash
