@@ -14,7 +14,6 @@
 > :rocket: Extensão do chrome desenvolvida para alterar o volume dos stories do instagram
 
 
-
 # :pushpin: Conteúdo
 
 * [Tecnologias](#computer-Tecnologias)
@@ -25,7 +24,7 @@
 Esse projeto foi desenvolvido utlizando:
 
 * Javascript
-* Chrome Extensios
+* Chrome Extensions
 
 # :construction_worker: How to run
 ```bash
@@ -37,6 +36,11 @@ $ git clone https://github.com/blzpedro/change-volume-instagram.git
 # Abra o google chrome e digite chrome://extensions/
 # Ative o modo de desenvolvedor no lado superior direito
 # Agora é só arrastar a pasta para dentro da tela das extensões e atualizar a página no instagram
+
+# Entre em um stories de vídeo.
+# No canto superior possui um slider de volume para controlar o volume dos stories.
+# Arraste para aumentar ou diminuir o volume
+# Útil e de fácil entendimento.
 
 ```
 
