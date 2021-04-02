@@ -3,7 +3,7 @@
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/phenriqmelo/">
-      <img alt="Pedro Melo" src="https://img.shields.io/badge/-Leo Gonzaga-FB250?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Pedro Melo" src="https://img.shields.io/badge/-Pedro Melo-FB250?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/blzpedro/change-volume-instagram?color=FB250">
 
