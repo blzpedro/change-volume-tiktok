@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Alterador de volume de stories do Instagram</h2>
+<h2>Instagram Stories Volume Changer</h2>
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/phenriqmelo/">
