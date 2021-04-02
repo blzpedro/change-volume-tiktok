@@ -29,9 +29,8 @@ Esse projeto foi desenvolvido utlizando:
 # :construction_worker: How to run
 
 Faça download do zip ou clone o repositório.
-[Download](https://codeload.github.com/blzpedro/change-volume-instagram/zip/refs/heads/main)
-
-$ git clone https://github.com/blzpedro/change-volume-instagram.git
+* [Download](https://codeload.github.com/blzpedro/change-volume-instagram/zip/refs/heads/main)
+* git clone https://github.com/blzpedro/change-volume-instagram.git
 
 ```bash
 
