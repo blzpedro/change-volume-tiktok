@@ -11,7 +11,7 @@
 
 </p>
 
-> :rocket: Extensão do chrome desenvolvida para alterar o volume dos stories do instagram
+> :rocket: Extensão do Chrome desenvolvida para alterar o volume dos stories do Instagram.
 
 
 # :pushpin: Conteúdo
@@ -27,10 +27,10 @@ Esse projeto foi desenvolvido utlizando:
 * Chrome Extensions
 
 # :construction_worker: How to run
-
 Faça download do zip ou clone o repositório.
+
 * [Download](https://codeload.github.com/blzpedro/change-volume-instagram/zip/refs/heads/main)
-* git clone https://github.com/blzpedro/change-volume-instagram.git
+* $ git clone https://github.com/blzpedro/change-volume-instagram.git
 
 ```bash
 
