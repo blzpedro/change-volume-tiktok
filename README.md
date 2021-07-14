@@ -25,7 +25,7 @@
 
   
 
-> :rocket: Extensão de Browser desenvolvido para alterar o volume dos stories do Instagram. Sinta-se livre para ajudar no código.
+> :rocket: Extensão de Browser desenvolvido para alterar o volume dos videos do Tiktok. Sinta-se livre para ajudar no código.
 
   
   
