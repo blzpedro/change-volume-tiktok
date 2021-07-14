@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Instagram Stories Volume Changer",
-  "description": "Change volume from Instagram Stories.",
+  "name": "Tiktok Videos Volume Changer",
+  "description": "Change volume from Tiktok Videos.",
   "version": "1.2",
   "content_scripts": [
     {
-      "matches": ["https://www.instagram.com/*/*"],
+      "matches": ["https://www.tiktok.com/*", "https://www.tiktok.com/*/*", "https://www.tiktok.com/*/*/*", "https://www.tiktok.com/*/*/*/*"],
       "js": ["index.js"]
     }
   ],
